@@ -29,6 +29,8 @@ fi
 
 echo "Channel name : "$CHANNEL_NAME
 
+echo "Sleep for 30 seconds"
+sleep 30
 # import utils
 . scripts/utils.sh
 
