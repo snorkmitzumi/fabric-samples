@@ -32,8 +32,6 @@ echo "Channel name : "$CHANNEL_NAME
 # import utils
 . scripts/utils.sh
 
-sleep 30
-
 createChannel() {
 	setGlobals 0 1
 
